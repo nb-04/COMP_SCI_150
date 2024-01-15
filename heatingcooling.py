@@ -1,5 +1,5 @@
-# Burkamper, Nicholas
-# 1/15/2024
+# last_name, first_name
+# date
 # Returns the running total of the numbner of heating and cooling days based on user input of average daily temperature
 
 #Intializes the variables
