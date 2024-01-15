@@ -1,0 +1,5 @@
+first_name = input()
+whole_number = int(input())
+plural_noun = input()
+generic_location = input()
+print(first_name, "buys", whole_number, "different types of", plural_noun, "at", generic_location)
